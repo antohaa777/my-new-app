@@ -12,7 +12,7 @@ function App() {
         </p>
         <p>Vilnius city</p>
         <p>Vilnius </p>
-        <p>Vilnius ssss</p>
+        <p>Vilnius Krruuu</p>
         <a
           className="App-link"
           href="https://reactjs.org"

@@ -13,6 +13,8 @@ function App() {
         <p>Vilnius city</p>
         <p>Vilnius </p>
         <p>Vilnius Krruuu</p>
+        <p>Vilnius Krruuu</p>
+        <p>dev branch commit 1</p>
         <a
           className="App-link"
           href="https://reactjs.org"
